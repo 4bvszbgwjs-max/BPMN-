@@ -1,0 +1,155 @@
+{
+  "platformVersion": "v35",
+  "files": [
+    {
+      "name": "LICENSE-bpmn-js.txt",
+      "sha256": "5788cf8bd61481776cee1c943595525499a1355c045e9244f92e6c8092c06770",
+      "bytes": 1390
+    },
+    {
+      "name": "LICENSE-bpmn-validation.txt",
+      "sha256": "cb4cf37796d9f37feb0ce7ce0a8934ac274ba83c594a13cf37b79ffd4a5868e3",
+      "bytes": 9043
+    },
+    {
+      "name": "LICENSE-jspdf.txt",
+      "sha256": "dc388ec35ff463288cdde3588a36fd4ed12a45deff053243b37309acc9ef583b",
+      "bytes": 1142
+    },
+    {
+      "name": "ai-audits.mjs",
+      "sha256": "3bde93055a923a9b61ac09ddf3a2a3b2f311231df396fc5374113a6f2f579107",
+      "bytes": 8081
+    },
+    {
+      "name": "ai-compiler.mjs",
+      "sha256": "deafe7aec9bac24234f161b1e63be98b9272909db6b8c109d9cdc9dd4d23237b",
+      "bytes": 16334
+    },
+    {
+      "name": "ai-edit.mjs",
+      "sha256": "b5dc7d2b39a18442cee1db65ca5045c69581706653bdff05c034ee15a1c2e1ff",
+      "bytes": 12942
+    },
+    {
+      "name": "ai-editor.js",
+      "sha256": "daa441e447de69875675d71548ddd4353ac59892d6797276961627315c4d071d",
+      "bytes": 18923
+    },
+    {
+      "name": "ai-flat.mjs",
+      "sha256": "733088ca994b058514fc841021b503fd98021bf463f212085012ff1f69e2eaf7",
+      "bytes": 8976
+    },
+    {
+      "name": "ai-layout.mjs",
+      "sha256": "6dd1f8b3a7fc3030545e1d1535fe79415f00560e80ca6c3128f8bf24cba781a9",
+      "bytes": 3774
+    },
+    {
+      "name": "ai-local-repair.mjs",
+      "sha256": "703a6db05cbf27c82cc1afd4f1b01f7e6d11556e96d937fa52fb84f1cda464fe",
+      "bytes": 5583
+    },
+    {
+      "name": "ai-patch.js",
+      "sha256": "fadd5d49b9f20c18a14c0b2c21c1c66d9a9d632983a0e5b09e30a06edba4a9c0",
+      "bytes": 3942
+    },
+    {
+      "name": "ai-plan.mjs",
+      "sha256": "fbbc5e14e1222db957cf19950faedb852d8b76769d3dd9f9866dfb8c4bb06884",
+      "bytes": 61564
+    },
+    {
+      "name": "ai-processes.mjs",
+      "sha256": "78414b2e561f29df406624999a24d4571700ea8af38215f891f90b567ee5b5e8",
+      "bytes": 19648
+    },
+    {
+      "name": "ai-recovery.mjs",
+      "sha256": "98bd95b14d531098b53380c0aa01b7ac50b58d55589bc5c2b0220ba6c5a829e1",
+      "bytes": 1757
+    },
+    {
+      "name": "ai-repair.mjs",
+      "sha256": "a65b77f0cb6a839b09acb154306b270cee7a5abd3c16dac806296d23183e9a36",
+      "bytes": 4420
+    },
+    {
+      "name": "ai-requirements.mjs",
+      "sha256": "d5c2bb5081c6b60a868092734c9a002d65574f2f45102b2c8be6e21ff922d5db",
+      "bytes": 5520
+    },
+    {
+      "name": "ai-router.mjs",
+      "sha256": "d2f464482c7f06d44d8605d32558c75723d53f2c3f5adc4e17ad5a47691b52ba",
+      "bytes": 7635
+    },
+    {
+      "name": "ai-store.mjs",
+      "sha256": "eff7b625e8ca8a8d60cc3ee5847d8ac96ceeb5c4f6d83e081036d3d39c827279",
+      "bytes": 7082
+    },
+    {
+      "name": "bpmn-graph-checks.mjs",
+      "sha256": "bfcb25d61c9bc87685dbf1c08bcaf4e49b390db74af4c5af19ecdfa1ec10fa89",
+      "bytes": 2060
+    },
+    {
+      "name": "bpmn-guide.json",
+      "sha256": "041d5357cc6007941a62a8d0365ad14b94c6de150d9f52e3228c88afac37a22c",
+      "bytes": 37722
+    },
+    {
+      "name": "bpmn-knowledge.mjs",
+      "sha256": "c98a962835a21af5a92df2ad5105defafaa6bc327636273f698ad90cc8b110bc",
+      "bytes": 1755
+    },
+    {
+      "name": "bpmn-validation.mjs",
+      "sha256": "6e58a1b8682b0a07a113b052275ed9a595213628babe71d0bd9659c085c81a24",
+      "bytes": 99069
+    },
+    {
+      "name": "diagram.css",
+      "sha256": "e32fae8b28fcb4e2203d0a935ee88bee69cbda8d3365f29a420680b2f5029ef9",
+      "bytes": 30612
+    },
+    {
+      "name": "editor-custom.js",
+      "sha256": "2bee79106a6427cb4778d8af3b23d47e7a972536869229f6f2979b78e02e5c2b",
+      "bytes": 28250
+    },
+    {
+      "name": "font.css",
+      "sha256": "57156c34a85b34c117167308fc7968f52d2beb809359d042c277982cd7bad10b",
+      "bytes": 96188
+    },
+    {
+      "name": "importer.js",
+      "sha256": "fa9340ddd5e883ca15ce9855870dd13f02770edff5526a2c953081f82eb570b2",
+      "bytes": 7781
+    },
+    {
+      "name": "index.html",
+      "sha256": "b382afe83cf33cc309ed7ff50c84866495ef76689e0e08cd94dfa6d9827a73d6",
+      "bytes": 74564
+    },
+    {
+      "name": "modeler.js",
+      "sha256": "052e46d09a88d301de4ec0b5f3f1f2b56840c455ee85a29068bd5bf6167e99ac",
+      "bytes": 571729
+    },
+    {
+      "name": "pdf.js",
+      "sha256": "509a1b5b1f3402b81e28510e46145618373a9cba61c94c119d5e9242a86261e1",
+      "bytes": 419162
+    },
+    {
+      "name": "server.mjs",
+      "sha256": "4b6390dd618f605ad22b5b83d058d6029d8c9563e8cb30896ad74ee76f4236a3",
+      "bytes": 30961
+    }
+  ]
+}
